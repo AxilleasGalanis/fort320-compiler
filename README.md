@@ -21,4 +21,4 @@ DATA CONTINUE GOTO CALL READ WRITE IF THEN ELSE ENDIF DO ENDDO STOP
 RETURN
 ```
 ## Acknowledgments
-This project was created as a part of the compiler class ECE319 at Uth.
+This project was created as a part of the Compilers course  ECE319 at University of Thessaly.
